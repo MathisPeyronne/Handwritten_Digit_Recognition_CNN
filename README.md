@@ -25,8 +25,8 @@ The network is trained on [MNIST](http://yann.lecun.com/exdb/mnist/) handwritten
 
 ## Results
 
-- Training Accuracy: 1.0
-- Testing Accuracy: 0.9822
+- Training Accuracy: 0.997
+- Testing Accuracy: 0.996
 
 ## Details
 
